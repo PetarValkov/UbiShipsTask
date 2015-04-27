@@ -1,0 +1,31 @@
+﻿Build started 27.4.2015 г. 09:57:17 ч..
+     1>Project "C:\Users\ThePesho\Documents\Visual Studio 2012\Projects\VersionTwo\VersionTwo\VersionTwo.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt CApp.cpp
+         CApp.cpp
+     1>c:\users\thepesho\documents\visual studio 2012\projects\versiontwo\versiontwo\capp.cpp(300): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\thepesho\documents\visual studio 2012\projects\versiontwo\versiontwo\capp.cpp(520): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\thepesho\documents\visual studio 2012\projects\versiontwo\versiontwo\capp.cpp(643): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\thepesho\documents\visual studio 2012\projects\versiontwo\versiontwo\capp.cpp(778): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\thepesho\documents\visual studio 2012\projects\versiontwo\versiontwo\capp.cpp(787): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\thepesho\documents\visual studio 2012\projects\versiontwo\versiontwo\capp.cpp(907): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\thepesho\documents\visual studio 2012\projects\versiontwo\versiontwo\capp.cpp(909): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\thepesho\documents\visual studio 2012\projects\versiontwo\versiontwo\capp.cpp(914): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\thepesho\documents\visual studio 2012\projects\versiontwo\versiontwo\capp.cpp(919): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\thepesho\documents\visual studio 2012\projects\versiontwo\versiontwo\capp.cpp(933): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\thepesho\documents\visual studio 2012\projects\versiontwo\versiontwo\capp.cpp(938): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\thepesho\documents\visual studio 2012\projects\versiontwo\versiontwo\capp.cpp(943): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\thepesho\documents\visual studio 2012\projects\versiontwo\versiontwo\capp.cpp(948): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\thepesho\documents\visual studio 2012\projects\versiontwo\versiontwo\capp.cpp(974): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\thepesho\documents\visual studio 2012\projects\versiontwo\versiontwo\capp.cpp(979): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\thepesho\documents\visual studio 2012\projects\versiontwo\versiontwo\capp.cpp(984): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\thepesho\documents\visual studio 2012\projects\versiontwo\versiontwo\capp.cpp(989): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\thepesho\documents\visual studio 2012\projects\versiontwo\versiontwo\capp.cpp(994): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ThePesho\Documents\Visual Studio 2012\Projects\VersionTwo\Debug\VersionTwo.exe" /INCREMENTAL /NOLOGO SDL2.lib SDL2main.lib SDL2_image.lib SDL2_ttf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ThePesho\Documents\Visual Studio 2012\Projects\VersionTwo\Debug\VersionTwo.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ThePesho\Documents\Visual Studio 2012\Projects\VersionTwo\Debug\VersionTwo.lib" /MACHINE:X86 Debug\CApp.obj
+         VersionTwo.vcxproj -> C:\Users\ThePesho\Documents\Visual Studio 2012\Projects\VersionTwo\Debug\VersionTwo.exe
+     1>Done Building Project "C:\Users\ThePesho\Documents\Visual Studio 2012\Projects\VersionTwo\VersionTwo\VersionTwo.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.89
